@@ -8,5 +8,8 @@
 #import "TestLogModel.h"
 
 @implementation TestLogModel
-
++(void)log
+{
+    NSLog(@"打印我吧");
+}
 @end

@@ -8,5 +8,5 @@
 #import <Foundation/Foundation.h>
 
 @interface TestLogModel : NSObject
-
++(void)log;
 @end
