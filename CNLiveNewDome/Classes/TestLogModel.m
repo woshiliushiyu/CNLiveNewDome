@@ -10,6 +10,6 @@
 @implementation TestLogModel
 +(void)log
 {
-    NSLog(@"打印我吧");
+    NSLog(@"打印我吧hhhhhhhhhhh");
 }
 @end
